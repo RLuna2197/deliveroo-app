@@ -54,10 +54,9 @@ export default function HomeScreen() {
 
              {/* Feature Row */}
 
-        <FeaturedRow title="Featured" description="Paid placements form our partners!"/>
-        <FeaturedRow title="Tasty Discount" description="Everyone's been enjoying these juicy discounts!"/>
-        <FeaturedRow title="Featured" description="Why not support your local restaurant tonight!"/>
-
+        <FeaturedRow id="1" title="Featured" description="Paid placements form our partners!"/>
+        <FeaturedRow id="2" title="Tasty Discount" description="Everyone's been enjoying these juicy discounts!"/>
+        <FeaturedRow id="3" title="Featured" description="Why not support your local restaurant tonight!"/>
         </ScrollView>
     </SafeAreaView>
     
