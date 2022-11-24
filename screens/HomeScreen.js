@@ -16,8 +16,8 @@ export default function HomeScreen() {
     }, []);
     
   return (
-    <SafeAreaView className="bg-white pt-5">
-        { /*Header*/ }
+    <SafeAreaView className="bg-white pt-8">
+         { /*Header*/ }
         <View className="flex-row pb-3 items-center mx-4 space-x-2">
         <Image
           source={{
